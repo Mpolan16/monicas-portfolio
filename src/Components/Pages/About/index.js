@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../../Header';
 import AboutMe from '../../AboutMe';
-import '../../../Style';
+// import '../../../Style';
 
 function About() {
     return (
