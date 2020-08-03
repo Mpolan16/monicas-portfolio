@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as HashRouter, Route } from 'react-router-dom';
-import Navbar from './Components/Nav';
+import Nav from './Components/Nav';
 import About from './Components/Pages/About';
 import Portfolio from './Components/Pages/Portfolio';
 import ContactPage from './Components/Pages/Contact';
@@ -9,7 +9,7 @@ import Footer from './Components/Footer';
 function App() {
   return (
     <HashRouter basename='/'>
-      <Navbar />
+      <Nav />
       <main className='container'>
         <Route exact path='/' component={About} />
         <Route exact path='/about' component={About} />

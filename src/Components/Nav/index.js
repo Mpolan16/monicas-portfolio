@@ -36,12 +36,7 @@ function Nav() {
                     </Link>  
                 </li>      
                 <li className="nav-item mr-5">
-                    <Link 
-                        to="/Résumé" 
-                        className={location.pathname === "/Résumé" ? "nav-link active" : "nav-link"}
-                    >
-                        Résumé
-                    </Link>  
+                <a href="./Assets/Resume.pdf" class="black-text text-lighten-3">Résumé</a>
                 </li>                 
             </ul>
             </div>

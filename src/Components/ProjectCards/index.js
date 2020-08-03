@@ -1,12 +1,8 @@
 import React from 'react';
-import { Col, Row, Container } from "../Grid";
 
 function ProjectCards(){
     return(
-      <Container>
-        <Row>
-          <Col size="s12">
-          {/* enter first card here */}
+          /* enter first card here */
             <div className="card">
               <div className="card-image">
                 <img src="../../Images/Tutor_Tracker_ScreanShot.png" alt="tutortracker"/>
@@ -20,9 +16,6 @@ function ProjectCards(){
                 </div>
               </div>
             </div>
-          </Col>
-        </Row>
-      </Container>
       /* <div className="row">
          <!-- Empty col 1 -->
          <div className="col-sm-3"></div>
