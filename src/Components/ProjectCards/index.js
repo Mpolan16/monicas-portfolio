@@ -1,8 +1,29 @@
 import React from 'react';
+import { Col, Row, Container } from "../Grid";
 
-function ProjectCard(){
+function ProjectCards(){
     return(
-      <div className="row">
+      <Container>
+        <Row>
+          <Col size="s12">
+          {/* enter first card here */}
+            <div className="card">
+              <div className="card-image">
+                <img src="../../Images/Tutor_Tracker_ScreanShot.png" alt="tutortracker"/>
+                <span className="card-title purple">The Tutor Tracker</span>
+              </div>
+              <div className="card-action">
+                <a href="https://github.com/Mpolan16/project2-jjem">GitHub</a>
+                <a href="https://afternoon-eyrie-99732.herokuapp.com/">Website</a>
+                <div className="card-content">
+                  <p><i className="fas fa-tools"></i>     Express-Handlebars, Express, Node.js, Sequelize, FullCalendar.io, Moment.js, Bootstrap, JQuery, Javascript, HTML, CSS, and Heroku </p>
+                </div>
+              </div>
+            </div>
+          </Col>
+        </Row>
+      </Container>
+      /* <div className="row">
          <!-- Empty col 1 -->
          <div className="col-sm-3"></div>
          <!-- About me col 2-->
@@ -113,6 +134,8 @@ function ProjectCard(){
                     </div>
                   </div>
                 </div>
-        </div>
-    )
+        </div> */
+    );
 }
+
+export default ProjectCards;
