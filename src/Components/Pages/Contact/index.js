@@ -1,5 +1,4 @@
 import React from 'react';
-import Header from '../../Header/';
 import ContactBox from '../../ContactBox'
 
 // import '../../../Style';
@@ -7,7 +6,6 @@ import ContactBox from '../../ContactBox'
 function ContactPage() {
     return (
         <div>
-            <Header />
             <ContactBox />
         </div>
     );

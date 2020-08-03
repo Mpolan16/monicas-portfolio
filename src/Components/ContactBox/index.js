@@ -9,7 +9,7 @@ function ContactBox(){
             <input type="text" id="emailentry" name="email" placeholder=""/>
             <label for="subject">Message</label>
             <textarea id="subject" name="subject" placeholder=""></textarea>
-            <button className="waves-effect waves-light btn-small blue" type="submit">Button</button>
+            <button className="waves-effect waves-light btn-small blue" type="submit">Send</button>
         </form>
     );
 }
