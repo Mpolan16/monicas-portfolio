@@ -11,7 +11,8 @@ function App() {
     <HashRouter basename='/'>
       <Navbar />
       <main className='container'>
-        <Route exact path='/about/' component={About} />
+        <Route exact path='/' component={About} />
+        <Route exact path='/about' component={About} />
         <Route exact path='/portfolio' component={Portfolio} />
         <Route exact path='/contact' component={ContactPage} />
       </main>
