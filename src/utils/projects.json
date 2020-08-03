@@ -3,16 +3,18 @@
         "Title":"The Tutor Tracker",
         "GitHub":"https://github.com/Mpolan16/project2-jjem",
         "Website":"https://afternoon-eyrie-99732.herokuapp.com/",
-        "Tools":"Express-Handlebars, Express, Node.js, Sequelize, FullCalendar.io, Moment.js, Bootstrap, JQuery, Javascript, HTML, CSS, and Heroku",
+        "Tools":" Express-Handlebars, Express, Node.js, Sequelize, FullCalendar.io, Moment.js, Bootstrap, JQuery, Javascript, HTML, CSS, and Heroku",
         "Image":"./Assets/Tutor_Tracker_ScreenShot.png",
-        "Alt":"tutortracker"
+        "Alt":"tutortracker",
+        "Desc":" This application allows teachers to add students to their list, drag and drop them to the interactive calendar and delete or reschedule as needed. When adding students a modal will appear to input the student information. The modal will also be a useful tool for updating currently scheduled students or deleting students from the calendar."
     },
     {
         "Title":"The Tutor Tracker",
         "GitHub":"https://github.com/Mpolan16/project2-jjem",
         "Website":"https://afternoon-eyrie-99732.herokuapp.com/",
-        "Tools":"Express-Handlebars, Express, Node.js, Sequelize, FullCalendar.io, Moment.js, Bootstrap, JQuery, Javascript, HTML, CSS, and Heroku",
+        "Tools":" Express-Handlebars, Express, Node.js, Sequelize, FullCalendar.io, Moment.js, Bootstrap, JQuery, Javascript, HTML, CSS, and Heroku",
         "Image":"./Assets/Tutor_Tracker_ScreenShot.png",
-        "Alt":"tutortracker"
+        "Alt":"tutortracker",
+        "Desc":" This application allows teachers to add students to their list, drag and drop them to the interactive calendar and delete or reschedule as needed. When adding students a modal will appear to input the student information. The modal will also be a useful tool for updating currently scheduled students or deleting students from the calendar."
     }
 ]

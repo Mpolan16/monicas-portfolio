@@ -15,7 +15,9 @@ function Projects() {
                 <a href={project.GitHub}>GitHub</a>
                 <a href={project.Website}>Website</a>
                 <div className="card-content">
-                  <p><i className="fas fa-tools"></i>  {project.Tools} </p>
+                    <p><i class="fas fa-info-circle"></i>  {project.Desc} </p>
+                    <br></br>
+                    <p><i className="fas fa-tools"></i>  {project.Tools} </p>
                 </div>
               </div>
             </div>
