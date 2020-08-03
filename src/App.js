@@ -1,9 +1,22 @@
 import React from 'react';
-import './App.css';
+import { BrowserRouter as HashRouter, Route } from 'react-router-dom';
+import Navbar from './Components/Nav';
+import About from './Components/Pages/About';
+import Portfolio from './Components/Pages/Portfolio';
+import Contact from './Components/Pages/Contact';
+import Footer from './Components/Footer';
 
 function App() {
   return (
-    // add header, projects, and footer here
+    <HashRouter basename='/'>
+      <Navbar />
+      <main className='container'>
+        <Route exact path='/about/' component={About} />
+        <Route exact path='/portfolio' component={Portfolio} />
+        <Route exact path='/contact' component={Contact} />
+      </main>
+      <Footer />
+    </HashRouter>
     
   );
 }
