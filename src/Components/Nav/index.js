@@ -4,8 +4,8 @@ import { Link, useLocation } from 'react-router-dom';
 function Nav() {
   const location = useLocation();
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark border-bottom border-dark fixed-top blue">    
-        <a className="navbar-brand" id="navbar_name" href="/myportfolio">Mónica Polanco Fabián</a>
+    <nav className="navbar navbar-expand-lg navbar-dark border-bottom border-dark fixed-top">    
+        <a className="navbar-brand" id="navbar_name" href="/">Mónica Polanco Fabián</a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
         </button>
