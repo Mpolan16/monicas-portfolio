@@ -6,7 +6,6 @@ function Header(props) {
         <Container fluid>
         <Row>
           <Col size="sm-12">
-           
           </Col>
         </Row>
       </Container>
