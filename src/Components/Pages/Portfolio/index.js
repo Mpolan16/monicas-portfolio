@@ -6,7 +6,7 @@ import Projects from '../../Projects';
 function Portfolio() {
     return (
         <div>
-            <Header value='Portfolio' />
+            <Header />
             <Projects />
         </div>
     );
