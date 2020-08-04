@@ -10,19 +10,12 @@ body {
     padding-right: 20px;
     font-size: 30px;
 }
-/* #resume{
-    margin-top: 7px;
-} */
 #headshot{
     margin-left: 25%;
 }
 #abouttext{
     text-align: justify;
 }
-/* #contactBox{
-    padding-left: 5%;
-    padding-right: 5%; */
-/* } */
 #subject{
     height: 250px;
 }
