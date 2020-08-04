@@ -9,7 +9,7 @@ function Projects() {
             <div className="card">
               <div className="card-image">
                 <img src= {project.Image} alt= {project.Alt}/>
-                <span className="card-title purple">{project.Title}</span>
+                <span className="card-title black">{project.Title}</span>
               </div>
               <div className="card-action">
                 <a href={project.GitHub}>GitHub</a>
