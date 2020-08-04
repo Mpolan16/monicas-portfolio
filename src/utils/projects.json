@@ -9,12 +9,84 @@
         "Desc":" This application allows teachers to add students to their list, drag and drop them to the interactive calendar and delete or reschedule as needed. When adding students a modal will appear to input the student information. The modal will also be a useful tool for updating currently scheduled students or deleting students from the calendar."
     },
     {
-        "Title":"The Tutor Tracker",
-        "GitHub":"https://github.com/Mpolan16/project2-jjem",
-        "Website":"https://afternoon-eyrie-99732.herokuapp.com/",
-        "Tools":" Express-Handlebars, Express, Node.js, Sequelize, FullCalendar.io, Moment.js, Bootstrap, JQuery, Javascript, HTML, CSS, and Heroku",
-        "Image":"./Assets/Tutor_Tracker_ScreenShot.png",
-        "Alt":"tutortracker",
-        "Desc":" This application allows teachers to add students to their list, drag and drop them to the interactive calendar and delete or reschedule as needed. When adding students a modal will appear to input the student information. The modal will also be a useful tool for updating currently scheduled students or deleting students from the calendar."
+        "Title":"Savor",
+        "GitHub":"https://github.com/CaseyVanAlstyne/Savor",
+        "Website":"https://caseyvanalstyne.github.io/Savor/",
+        "Tools":" HTML, JavaScript, jQuery, CSS, Materialize, iTunes API, and lyrics.ovh API",
+        "Image":"./Assets/Savor.png",
+        "Alt":"Savor",
+        "Desc":" Savor allows you to get the artist informationand lyrics through a quick search."
+    },
+    {
+        "Title":"Employee Directory",
+        "GitHub":"https://github.com/Mpolan16/employee-directory",
+        "Website":"https://mpolan16.github.io/employee-directory/",
+        "Tools":" React.js, JavaScript, Express, Node.js, JSX, CSS, HTML, and randomuser.me API.",
+        "Image":"./Assets/EmployeeDir.png",
+        "Alt":"Employee Directory",
+        "Desc":" The Note Taker is a simple way to write, save and delete a note file through the browser. Simply write a note, save with floppy disk icon, write new notes with the pen icon, and delete with the trash can icon."
+    },
+    {
+        "Title":"Budget Tracker",
+        "GitHub":"https://github.com/Mpolan16/BudgetTracker",
+        "Website":"https://shielded-basin-44902.herokuapp.com",
+        "Tools":" JavaScript, Express, Mongo, Mongoose, Node.js, CSS, HTML, PWA.",
+        "Image":"./Assets/Budget.png",
+        "Alt":"Budget Tracker",
+        "Desc":" Whether you have internet or not use this app to track your monthly budget expenses. Just enter your income and expenses, and it will automatically generate a graph with that information."
+    },
+    {
+        "Title":"Fitness Tracker",
+        "GitHub":"https://github.com/Mpolan16/Fitness_Tracker",
+        "Website":"https://immense-waters-20745.herokuapp.com",
+        "Tools":" JavaScript, Express, Mongo, Mongoose, Node.js, CSS, HTML",
+        "Image":"./Assets/Fitness.png",
+        "Alt":"Fitness Tracker",
+        "Desc":" create and track your daily workouts and also log multiple exercises in a workout on a given day. The app makes it easy to track the name, type, weight, sets, reps, and duration of each exercise. Additionally, the app helps to track the distance traveledfor cardio workouts."
+    },
+    {
+        "Title":"Eat Da Burger",
+        "GitHub":"https://github.com/Mpolan16/burger",
+        "Website":"https://ancient-temple-88703.herokuapp.com/",
+        "Tools":" JavaScript, Express-Handlebars, Express, MySQL, Node.js, CSS, and Heroku",
+        "Image":"./Assets/Burger.png",
+        "Alt":"Eat da Burger",
+        "Desc":" The Eat Da Burger web application allows you to easily build your own burger and show if you have either devoured it or have not yet eaten it."
+    },
+    {
+        "Title":"The Note Taker",
+        "GitHub":"https://github.com/Mpolan16/Note-Taker",
+        "Website":"https://note-taker-appl.herokuapp.com",
+        "Tools":" JavaScript, Express, MySQL, HTML, Node.js, CSS, and Heroku",
+        "Image":"./Assets/NoteTaker.png",
+        "Alt":"Note taker",
+        "Desc":" The Employee Directory is the simplest way to view all employees at once and have quick access to their information."
+    },
+    {
+        "Title":"Team Generator",
+        "GitHub":"https://github.com/Mpolan16/TeamGenerator",
+        "Website":"https://share.getcloudapp.com/bLuevvpA",
+        "Tools":" JavaScript, HTML, Node.js, and CSS",
+        "Image":"./Assets/TeamGenerator.png",
+        "Alt":"Team Generator",
+        "Desc":" The Team Generator is a quick easy way for a manager to generate employee information through the CLI which is then displayed on a website."
+    },
+    {
+        "Title":"Weather Outside",
+        "GitHub":"https://github.com/Mpolan16/Weather_outside",
+        "Website":"https://mpolan16.github.io/Weather_outside/",
+        "Tools":" HTML, Javascript, JQuery, CSS, Bootstrap, Font Awesome, and Open Weather Map API.",
+        "Image":"./Assets/Weather.png",
+        "Alt":"Weather outside",
+        "Desc":" To use this app the user can search any city and a 5 day forcast shows. If the user need multiple cities, the previously searched cities will be saved and can be referenced later."
+    },
+    {
+        "Title":"Latinx Quiz Game",
+        "GitHub":"",
+        "Website":"https://mpolan16.github.io/LatinxQuiz/",
+        "Tools":" JavaScript, HTML, Bootstrap, and CSS",
+        "Image":"./Assets/Quiz.png",
+        "Alt":"Quiz",
+        "Desc":" The Latinx Quiz is a fun way to test your knowledge on the Latinx Community. When you start, the timer starts couting down. If you answer incorrectly, 10 seconds will be subtracted from your time. You will then be presented with another question, until the game is over. The game is over if you either finish the question or run out of time. You can write your initals and your time score will save to local storage. If you click view highscores your name and score will be saved. You can press clear and all local storage clears and page reloads."
     }
 ]
