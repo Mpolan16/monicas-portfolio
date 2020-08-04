@@ -12,7 +12,9 @@ My portfolio is where you can find my latest projects, my resume and information
 
 ## Usage
 
-Depolyed webpage:
+https://mpolan16.github.io/monicas-portfolio/
+
+![Portfolio App](./public/Assets/Portfolio.png)
 
 The tools I used for this project included React.js, JavaScript, JSX, HTML, CSS, Node.js, Materialize, Font Awesome, and BootStrap.
 
