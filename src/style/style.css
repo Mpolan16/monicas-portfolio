@@ -10,21 +10,8 @@ body {
     padding-right: 20px;
     font-size: 30px;
 }
-.nav-item{
-    color:black;
-}
-#navname{
-    margin-right: 73%;
-}
-nav ul a{
-    color: black;
-    
-}
 #resume{
     margin-top: 7px;
-}
-.container{
-    margin-top: 1%;
 }
 #headshot{
     margin-left: 25%;
