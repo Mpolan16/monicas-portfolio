@@ -10,9 +10,9 @@ body {
     padding-right: 20px;
     font-size: 30px;
 }
-#resume{
+/* #resume{
     margin-top: 7px;
-}
+} */
 #headshot{
     margin-left: 25%;
 }
@@ -25,4 +25,12 @@ body {
 }
 #subject{
     height: 250px;
+}
+#resume a {
+    padding-top: 7px;
+    height: 60px;
+    text-decoration: none;
+}
+nav a {
+    height: 60px;
 }
