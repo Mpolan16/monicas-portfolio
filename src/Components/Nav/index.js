@@ -6,7 +6,7 @@ function Nav() {
   return (
     <nav>
     <div class="nav-wrapper grey">
-      <a href="/" class="brand-logo right">Mónica Polanco Fabián</a>
+      <a href="/monicas-portfolio/About" class="brand-logo right">Mónica Polanco Fabián</a>
       <ul id="nav-mobile" class="hide-on-small-and-down">
       <li>
                 <Link 
