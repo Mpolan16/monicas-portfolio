@@ -7,7 +7,7 @@ function AboutMe() {
         return(
           <div Key={i}>
             <div>
-              <h4 id="aboutMeHeader">{aboutMe.Title}</h4>
+              <h4 id="Header">{aboutMe.Title}</h4>
               <br/>
               <img src={aboutMe.Image} alt={aboutMe.Alt} id="headshot" width="400"/>
               <br/><br/>

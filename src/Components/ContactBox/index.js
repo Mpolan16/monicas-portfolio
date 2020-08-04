@@ -2,7 +2,9 @@ import React from 'react';
 
 function ContactBox(){
     return(
-        <form id="contactBox" action="mailto:mailto:monicapolancofabian15@gmail.com" method="post" enctype="text/plain">
+        <div>
+            <h4 id="Header">Contact</h4>
+            <form id="contactBox" action="mailto:mailto:monicapolancofabian15@gmail.com" method="post" enctype="text/plain">
             <label for="name">Name</label>
             <input type="text" id="fname" name="name" placeholder=""/>
             <label for="lname">Email</label>
@@ -11,6 +13,7 @@ function ContactBox(){
             <textarea id="subject" name="subject" placeholder=""></textarea>
             <button className="waves-effect waves-light btn-small blue" type="submit">Send</button>
         </form>
+        </div>
     );
 }
 

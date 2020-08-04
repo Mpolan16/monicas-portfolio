@@ -6,6 +6,7 @@ function Projects() {
         projects.map((project,i)=>{
             return(
             <div key={i}>
+              
             <div className="card">
               <div className="card-image">
                 <img src= {project.Image} alt= {project.Alt}/>
@@ -24,7 +25,6 @@ function Projects() {
         </div>
             )
         })
-        
     );
 }
 

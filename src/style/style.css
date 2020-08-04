@@ -2,7 +2,7 @@ body {
     font-family: 'PT Sans', sans-serif;
     color: black;
 }
-#aboutMeHeader {
+#Header {
     color: blue;
 }
 #footerIcons a {
@@ -19,10 +19,10 @@ body {
 #abouttext{
     text-align: justify;
 }
-#contactBox{
-    padding-left: 20%;
-    padding-right: 20%;
-}
+/* #contactBox{
+    padding-left: 5%;
+    padding-right: 5%; */
+/* } */
 #subject{
     height: 250px;
 }
