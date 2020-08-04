@@ -2,7 +2,7 @@ import React from 'react';
 
 function ContactBox(){
     return(
-        <form action="mailto:mailto:monicapolancofabian15@gmail.com" method="post" enctype="text/plain">
+        <form id="contactBox" action="mailto:mailto:monicapolancofabian15@gmail.com" method="post" enctype="text/plain">
             <label for="name">Name</label>
             <input type="text" id="fname" name="name" placeholder=""/>
             <label for="lname">Email</label>

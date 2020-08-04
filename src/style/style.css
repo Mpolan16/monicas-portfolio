@@ -1,0 +1,41 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+    color: black;
+}
+#aboutMeHeader {
+    color: blue;
+}
+#footerIcons a {
+    margin-left: 5px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+.nav-item{
+    color:black;
+}
+#navname{
+    margin-right: 73%;
+}
+nav ul a{
+    color: black;
+    
+}
+#resume{
+    margin-top: 7px;
+}
+.container{
+    margin-top: 1%;
+}
+#headshot{
+    margin-left: 25%;
+}
+#abouttext{
+    text-align: justify;
+}
+#contactBox{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#subject{
+    height: 250px;
+}

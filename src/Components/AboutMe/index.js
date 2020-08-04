@@ -9,9 +9,9 @@ function AboutMe() {
             <div>
               <h4 id="aboutMeHeader">{aboutMe.Title}</h4>
               <br/>
-              <img src={aboutMe.Image} alt={aboutMe.Alt} width="400"/>
+              <img src={aboutMe.Image} alt={aboutMe.Alt} id="headshot" width="400"/>
               <br/><br/>
-              <p>
+              <p id="abouttext">
                   {aboutMe.Desc}
               </p>
           </div>
