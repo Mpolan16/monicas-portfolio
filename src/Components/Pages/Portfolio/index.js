@@ -5,7 +5,7 @@ import '../../../style/style.css';
 function Portfolio() {
     return (
         <div>
-            <h4 id="Header">Projects</h4>
+            <h4 id="header">Projects</h4>
             <Projects />
         </div>
     );

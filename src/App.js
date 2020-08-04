@@ -8,7 +8,7 @@ import Footer from './Components/Footer';
 
 function App() {
   return (
-    <HashRouter basename='/'>
+    <HashRouter basename={`${process.env.PUBLIC_URL}/`}>
       <Nav />
       <main className='container'>
         <Route exact path='/' component={About} />

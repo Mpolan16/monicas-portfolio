@@ -3,7 +3,7 @@ import React from "react";
 function AboutMe() {
   return (
             <div>
-              <h4 id="Header">About Me</h4>
+              <h4 id="header">About Me</h4>
               <br/>
               <img src="./Assets/Headshot.png" alt="Monica Polanco" id="headshot" width="400"/>
               <br/><br/>

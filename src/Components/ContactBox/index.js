@@ -3,7 +3,7 @@ import React from 'react';
 function ContactBox(){
     return(
         <div>
-            <h4 id="Header">Contact</h4>
+            <h4 id="header">Contact</h4>
             <form id="contactBox" action="mailto:mailto:monicapolancofabian15@gmail.com" method="post" enctype="text/plain">
             <label for="name">Name</label>
             <input type="text" id="fname" name="name" placeholder=""/>
